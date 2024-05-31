@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CuckooCucumber
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning applying machine learning models
-- 📫 How to reach me: mail to s.seshagiri2001@gmail.com
+- 📫 How to reach me: [mail](s.seshagiri2001@gmail.com)
 
 
 <!---
